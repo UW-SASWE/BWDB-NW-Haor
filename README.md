@@ -5,4 +5,4 @@ The University of Washington SASWE Research Group is grateful to People's Republ
 
 ### How to Cite:
 Ahmad, S., Hossain, F., Pavelsky, T., Parkins, G. M., Yelton, S., Rodgers, M., et al. (2020). Understanding volumetric water storage in monsoonal wetlands of northeastern Bangladesh. Water Resources Research, 56, e2020WR027989. https://doi.org/10.1029/2020WR027989    
-Khan, S. F. Hossain, et al. (2022) Understanding Volume Estimation Uncertainty of Lakes and Wetlands Using Satellites and Citizen Science, IEEE J STARS, (In review)
+S. Khan et al., "Understanding Volume Estimation Uncertainty of Lakes and Wetlands Using Satellites and Citizen Science," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 16, pp. 2386-2401, 2023, doi: 10.1109/JSTARS.2023.3250354.
